@@ -15,7 +15,7 @@ Easily fetch Telegram user details using this bot! Follow the steps below to **d
    ```
    git clone https://github.com/ziddi-shop/ENC-TG-INFO-BOT.git
    ```
-   *(Replace `YOUR_USERNAME` with the actual GitHub username.)*  
+    
 
 ---
 
@@ -32,7 +32,7 @@ Run this command to install the required modules:
 ```
 pip install -r requirements.txt
 ```
-*(If the `requirements.txt` file is missing, manually install using: `pip install telebot requests`.)*
+
 
 ### **Step 3: Run the Script**
 Start the bot by running:  
